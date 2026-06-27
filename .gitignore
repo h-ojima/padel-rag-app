@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# App data (ChromaDB, histories, memos)
+data/chroma_db/
+data/histories/
+data/memos/
